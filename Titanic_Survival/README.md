@@ -8,13 +8,13 @@ This project is a machine learning model that predicts whether a passenger on th
 
 ##  Project Files  
 - `titanic.ipynb` → Jupyter Notebook containing data analysis, model training, and predictions.  
-- `model.pkl` → Trained machine learning model for future use.  
+- `titanic_survival_model.pkl` → Trained machine learning model for future use.  
 - `Titanic-Dataset.csv` → The dataset used for training the model.  
 
 ##  How to Use  
 1. Open `titanic.ipynb` in Jupyter Notebook.  
 2. Run all the cells to train and test the model.  
-3. Use `model.pkl` to make predictions without retraining.  
+3. Use `titanic_survival_model.pkl` to make predictions without retraining.  
 
 ##  Results  
 The model was trained using **Logistic Regression** and achieved good accuracy in predicting survival.  
