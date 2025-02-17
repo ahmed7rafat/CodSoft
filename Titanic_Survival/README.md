@@ -17,7 +17,4 @@ This project is a machine learning model that predicts whether a passenger on th
 3. Use `titanic_survival_model.pkl` to make predictions without retraining.  
 
 ##  Results  
-The model was trained using **Logistic Regression** and achieved good accuracy in predicting survival.  
-
-##  Author  
-**Ahmed7Rafat** - Data Science Intern  
+The model was trained using **Logistic Regression** and achieved good accuracy in predicting survival.   
